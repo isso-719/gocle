@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"gocle/src"
+	"github.com/isso-719/gocle/src"
 	"os"
 
 	"github.com/spf13/cobra"
